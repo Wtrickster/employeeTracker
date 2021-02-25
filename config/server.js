@@ -6,10 +6,10 @@ const consoleTable = require("console.table");
 //setup port
 const connection = mysql.createConnection({
     host: "localhost",
-    port: 8889,
+    port: 8000,
     user: "root",
     password: "root",
-    database: "tracker_DB"
+    database: "Employee_DB"
 });
 
 connection.connect(function(err) {
