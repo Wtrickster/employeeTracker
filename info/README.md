@@ -1,5 +1,5 @@
 # employeeTracker
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wtrickster/ReadME BOT)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Wtrickser/employeeTracker)
 
 
 # Description
@@ -23,7 +23,9 @@
 
 # Installation
 
+Run Command Line "npm install"
 
+Setup MySQL database with the included schema and seed
 
 
 # Usage
