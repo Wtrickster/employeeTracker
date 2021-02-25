@@ -4,6 +4,7 @@
 
 # Description
 
+A app that allows the viewing and management of departments, roles, and employees in a company
 
 
 # Table of Contents 
