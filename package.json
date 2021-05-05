@@ -1,24 +1,25 @@
 {
-    "name": "employee-tracker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Wtrickser/employeeTracker.git"
-    },
-    "author": "Joseph",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Wtrickser/employeeTracker/issues"
-    },
-    "homepage": "https://github.com/Wtrickser/employeeTracker#readme",
-    "dependencies": {
-        "console.table": "^0.10.0",
-        "inquirer": "^7.0.1",
-        "mysql": "^2.17.1"
-    }
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wtrickser/employeeTracker.git"
+  },
+  "keywords": [],
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wtrickser/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/Wtrickser/employeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  }
 }
