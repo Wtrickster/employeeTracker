@@ -31,9 +31,8 @@ Setup MySQL database with the included schema and seed
 
 # Usage
 
-<img src = Pic1.png width=500>
+https://drive.google.com/file/d/1lY6c2kze43dcjGWf5IhZQWdb4Zsy2No5/view?usp=sharing
 
-<img src = Pic2.png width=500>
 
 # License
 
